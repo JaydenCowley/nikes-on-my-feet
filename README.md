@@ -15,7 +15,7 @@ Install then npm packages listed above. Enter "npm run seed" in the server direc
 ![image](https://user-images.githubusercontent.com/98612225/185725992-015a0286-b233-4975-8a0e-2ff92a93aa60.png)
 
 ## Deployed App Links
-[Live Application](https://obscure-badlands-44561.herokuapp.com/)
+[Live Application](https://nikes-on-my-feet-project.herokuapp.com/)
 
 ## About Me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jaydencowley.github.io/Portfolio/)
